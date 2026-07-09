@@ -1,0 +1,74 @@
+{
+  "name": "Igor Antunes",
+  "photo": "https://avatars.githubusercontent.com/u/207894185?v=4",
+  "job": "Desenvolvedor full-stack",
+  "location": "São Simão, GO",
+  "phone": "(64) 98431-7319",
+  "email": "igorgabrielantunes252002@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java Script",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "GIT",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação assertiva",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (Básico)", "Espanhol (Básico)"],
+  "portfolio": [
+    {
+      "name": "Pokedex 1° Geração",
+      "url": "https://github.com/ChronosShelby/pokedex-first-gen",
+      "github": true
+    },
+    {
+      "name": "Calculadora de Partidas Rankeadas",
+      "url": "https://github.com/ChronosShelby/calculadora-rankeada-dio",
+      "github": true
+    },
+    {
+      "name": "Ransomware com Python",
+      "url": "https://github.com/ChronosShelby/cibersecurity-desafio-ransomware",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Gestão de Tecnologia da Informação | Município de São Simão - GO",
+      "period": "Mai de 2026 - até o momento",
+      "description": "Implantação de automações em processos administrativos, reduzindo retrabalho manual. Análise de dados e indicadores de desempenho para suporte à tomada de decisão da gestão. Suporte técnico e operacional a colaboradores, com orientações sobre ferramentas e sistemas. Condução de palestras e capacitações técnicas para equipes."
+    },
+    {
+      "name": "Cobrador Interno | Capricho Moveis",
+      "period": "Jan de 2024 - até o momento",
+      "description": "Monitoramento de KPIs diários de cobrança e metas de recebimento de múltiplas lojas da rede. Gestão de planilhas e relatórios de inadimplência, renegociações e desconto concedido. Treinamento e onboarding de novos colaboradores internos e externos. Realização de cobranças, renegociações e concessão de descontos estratégicos para recuperação de crédito."
+    },
+    {
+      "name": "Operador sênior | Algar Tech",
+      "period": "Jun de 2023 - Dez de 2023",
+      "description": "Atendimento especializado a clientes de alta renda portadores de Amex Platinum, Mastercard Black, Visa Infinite e Elo Diners. Ações de retenção e fidelização, com foco em resolução de problemas complexos e experiência do cliente."
+    },
+    {
+      "name": "Recursos humanos | Caramuru Alimentos S.A.",
+      "period": "Jun de 2021 - Jan de 2022",
+      "description": "Apoio às rotinas de RH: atendimento interno, organização de documentos, envio de comunicações corporativas. Condução de palestras de integração e suporte em treinamentos de novos colaboradores. Alimentação e manutenção de planilhas administrativas do setor."
+    }
+  ]
+}
