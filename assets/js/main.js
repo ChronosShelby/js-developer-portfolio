@@ -14,11 +14,17 @@ function updateProfileInfo(profileData) {
 
   const phone = document.getElementById("profile.phone");
   phone.innerText = profileData.phone;
-  phone.href = `tel:${profileData.phone}`;
+
+  const phoneNumber = profileData.phone.replace(/\D/g, "");
+
+  phone.href = `https://wa.me/55${phoneNumber}`;
+  phone.target = "_blank";
 
   const email = document.getElementById("profile.email");
   email.innerText = profileData.email;
-  email.href = `mailto:${profileData.email}`;
+
+  email.href = `https://mail.google.com/mail/?view=cm&fs=1&to=${profileData.email}`;
+  email.target = "_blank";
 }
 
 function updateSoftSkills(profileData) {
