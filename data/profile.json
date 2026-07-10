@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Java Script",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/ChronosShelby/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/js.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/ChronosShelby/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/python.svg"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/ChronosShelby/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/html.svg"
       },
       {
         "name": "GIT",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/ChronosShelby/js-developer-portfolio/refs/heads/main/assets/img/icons/languages/git.svg"
       }
     ],
     "softSkills": [
@@ -31,7 +31,7 @@
       "Resolução de problemas"
     ]
   },
-  "languages": ["Português BR", "Inglês (Básico)", "Espanhol (Básico)"],
+  "languages": ["Português (Nativo)", "Inglês (Básico)", "Espanhol (Básico)"],
   "portfolio": [
     {
       "name": "Pokedex 1° Geração",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Recursos humanos | Caramuru Alimentos S.A.",
-      "period": "Jun de 2021 - Jan de 2022",
+      "period": "Jan de 2021 - Jan de 2022",
       "description": "Apoio às rotinas de RH: atendimento interno, organização de documentos, envio de comunicações corporativas. Condução de palestras de integração e suporte em treinamentos de novos colaboradores. Alimentação e manutenção de planilhas administrativas do setor."
     }
   ]
