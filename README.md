@@ -4,6 +4,13 @@ Este é meu portfólio pessoal desenvolvido durante a formação de **JavaScript
 
 O objetivo do projeto é apresentar minhas informações profissionais, competências, experiências e projetos de forma moderna, responsiva e dinâmica.
 
+## 🚀 Demonstração
+
+🔗 **Acesse o projeto:**  
+https://chronosshelby.github.io/js-developer-portfolio/
+
+---
+
 ## ✨ Funcionalidades
 
 - Informações pessoais carregadas dinamicamente através de JSON.
