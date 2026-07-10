@@ -38,13 +38,13 @@ O objetivo do projeto é apresentar minhas informações profissionais, competê
 Clone o repositório:
 
 ```bash
-git clone https://github.com/ChronosShelby/NOME-DO-REPOSITORIO.git
+git clone https://github.com/ChronosShelby/js-developer-portfolio.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd js-developer-portfolio
 ```
 
 Abra o arquivo **index.html** em seu navegador.
