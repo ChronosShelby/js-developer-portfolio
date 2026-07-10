@@ -33,26 +33,6 @@ O objetivo do projeto é apresentar minhas informações profissionais, competê
 
 ---
 
-## 📄 Como executar o projeto
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/ChronosShelby/js-developer-portfolio.git
-```
-
-Entre na pasta:
-
-```bash
-cd js-developer-portfolio
-```
-
-Abra o arquivo **index.html** em seu navegador.
-
-Ou utilize a extensão **Live Server** do VS Code.
-
----
-
 ## 👨‍💻 Redes
 
 **Igor Gabriel Antunes da Silva**.
