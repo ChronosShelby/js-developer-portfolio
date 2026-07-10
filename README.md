@@ -6,19 +6,19 @@ O objetivo do projeto é apresentar minhas informações profissionais, competê
 
 ## ✨ Funcionalidades
 
-- ✅ Informações pessoais carregadas dinamicamente através de JSON.
-- ✅ Foto de perfil.
-- ✅ Cargo profissional.
-- ✅ Localização.
-- ✅ Contato por WhatsApp.
-- ✅ Contato por Gmail.
-- ✅ Lista de Hard Skills com ícones.
-- ✅ Lista de Soft Skills.
-- ✅ Idiomas.
-- ✅ Portfólio com links para projetos.
-- ✅ Experiências profissionais.
-- ✅ Interface responsiva.
-- ✅ Seções organizadas em acordeões.
+- Informações pessoais carregadas dinamicamente através de JSON.
+- Foto de perfil.
+- Cargo profissional.
+- Localização.
+- Contato por WhatsApp.
+- Contato por Gmail.
+- Lista de Hard Skills com ícones.
+- Lista de Soft Skills.
+- Idiomas.
+- Portfólio com links para projetos.
+- Experiências profissionais.
+- Interface responsiva.
+- Seções organizadas em acordeões.
 
 ---
 
